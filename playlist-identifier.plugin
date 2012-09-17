@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=playlist-identifier
+IAge=2
+Name=Playlist Identifier
+Depends=rb
+Description=Shows all playlists for a given track
+Authors=Taylor Raack <taylor@raack.info>
+Copyright=Copyright © 2012 Taylor Raack
+Website=https://github.com/dinoboy197/rhythmbox-playlist-identifier
